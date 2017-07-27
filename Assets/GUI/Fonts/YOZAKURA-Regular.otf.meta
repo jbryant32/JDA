@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83bada44115004048a0a016bee07693b
+timeCreated: 1485139138
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YOZAKURA
+  fontNames:
+  - YOZAKURA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

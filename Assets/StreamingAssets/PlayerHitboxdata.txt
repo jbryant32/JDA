@@ -1,0 +1,27 @@
+{
+    "name": "attack_A_box",
+    "IsTrgger": true,
+    "position": {
+        "x": 201.777099609375,
+        "y": 14.91552734375,
+        "z": -40.0
+    }
+}
+{
+    "name": "attack_b_box",
+    "IsTrgger": true,
+    "position": {
+        "x": 201.777099609375,
+        "y": 14.91552734375,
+        "z": -40.0
+    }
+}
+{
+    "name": "attack_c_box",
+    "IsTrgger": true,
+    "position": {
+        "x": 201.777099609375,
+        "y": 14.91552734375,
+        "z": -40.0
+    }
+}
